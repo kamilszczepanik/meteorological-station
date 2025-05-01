@@ -1,10 +1,6 @@
----
-
-- **Code**: <a href="https://github.com/kamilszczepanik/meteorological-station" target="_blank">https://github.com/kamilszczepanik/meteorological-station</a>
-- **Year**: 2023
-- **Timespan**: 20 hours
-
----
+**Code**: <a href="https://github.com/kamilszczepanik/meteorological-station" target="_blank">https://github.com/kamilszczepanik/meteorological-station</a>  
+**Year**: 2023  
+**Timespan**: 20 hours  
 
 ## Overview
 

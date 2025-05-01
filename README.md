@@ -21,49 +21,6 @@
 
 This one was an assignment.
 
-<div style={{ display: "flex", justifyContent: "center", margin: "0 0 24px" }}>
-  <object
-    data="/images/meteorological-station/assignment.pdf"
-    type="application/pdf"
-    style={{
-      width: "100%",
-      height: "500px",
-      borderRadius: "8px",
-    }}
-  >
-    <span>
-      Your browser does not support PDFs.
-      <a href="/images/meteorological-station/assignment.pdf" target="_blank">
-        Click to download the PDF instead.
-      </a>
-    </span>
-  </object>
-</div>
-
-<div
-  style={{
-    display: "flex",
-    justifyContent: "center",
-    margin: "24px 0",
-    flexDirection: "column",
-    alignItems: "center",
-  }}
->
-  <a
-    href="/images/meteorological-station/meteorological-station-presentation-kamil-szczepanik.pptx"
-    download
-    style={{
-      padding: "16px 24px 0",
-      background: "var(--primary)",
-      color: "var(--secondary)",
-      borderRadius: "8px",
-      fontWeight: "bold",
-    }}
-  >
-    Download Presentation
-  </a>
-</div>
-
 
 # FastAPI Project - Development
 
